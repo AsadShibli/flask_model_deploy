@@ -2,6 +2,10 @@
 
 This Flask-based web application predicts the salary of an employee based on their experience, test score, and interview score. It utilizes a machine learning model trained on the provided dataset.
 
+## Demo
+
+![test](https://github.com/AsadShibli/flask_model_deploy/assets/119102237/ad4eccd5-39d5-44cf-9c8d-164de475e8e2)
+
 ## Getting Started
 
 ### Prerequisites
